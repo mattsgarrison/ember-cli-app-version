@@ -6,7 +6,7 @@ var funnel = require('broccoli-funnel');
 var appVersion = require('./lib/app-version');
 
 module.exports = {
-  name: 'ember-cli-app-version',
+  name: 'ember-cli-app-version-file',
 
   isDevelopingAddon: function() {
     return true;

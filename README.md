@@ -1,4 +1,4 @@
-## ember-cli-app-version
+## ember-cli-app-version-file
 
 This is a tool for generating a file into your Ember build artifacts which contains your app version.
 

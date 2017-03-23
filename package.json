@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-app-version",
+  "name": "ember-cli-app-version-file",
   "version": "0.1.0",
   "description": "Publishes a file containing the app version when the Ember app is built",
   "keywords": [
@@ -16,9 +16,9 @@
     "broccoli-merge-trees": "~0.1.4",
     "broccoli-funnel": "~0.2.3"
   },
-  "url": "https://github.com/mattsgarrison/ember-cli-app-version",
+  "url": "https://github.com/mattsgarrison/ember-cli-app-version-file",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattsgarrison/ember-cli-app-version"
+    "url": "https://github.com/mattsgarrison/ember-cli-app-version-file"
   }
 }

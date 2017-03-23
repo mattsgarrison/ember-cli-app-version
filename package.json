@@ -1,0 +1,20 @@
+{
+  "name": "ember-cli-app-version",
+  "version": "0.1.0",
+  "description": "Publishes a file containing the app version when the Ember app is built",
+  "keywords": [
+    "ember-addon"
+  ],
+  "main": "index.js",
+  "author": "Matt Garrison",
+  "license": "MIT",
+  "ember-addon": {
+    "after": "broccoli-asset-rev"
+  },
+  "dependencies": {
+    "broccoli-writer": "~0.1.1",
+    "broccoli-merge-trees": "~0.1.4",
+    "broccoli-funnel": "~0.2.3"
+  },
+  "repository": "git@github.com:mattsgarrison/ember-cli-app-version.git"
+}
